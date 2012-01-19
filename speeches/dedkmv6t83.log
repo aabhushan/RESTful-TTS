@@ -1,0 +1,17 @@
+LAME 3.99.2 64bits (http://lame.sf.net)
+Using polyphase lowpass filter, transition band:  8269 Hz -  8535 Hz
+Encoding /Library/WebServer/Documents/tts/speeches//dedkmv6t83.aiff
+      to /Library/WebServer/Documents/tts/speeches//dedkmv6t83.mp3
+Encoding as 22.05 kHz single-ch MPEG-2 Layer III (11x)  32 kbps qval=3
+    Frame          |  CPU time/estim | REAL time/estim | play/CPU |    ETA 
+     0/       ( 0%)|    0:00/     :  |    0:00/     :  |         x|     :  
+00:00--------------------------------------------------------------------------
+   kbps      %     %                                                           
+    0.0                                                                        [A[A[A     0/36     ( 0%)|    0:00/    0:00|    0:00/    0:00|   0.0000x|    0:00 
+00:00--------------------------------------------------------------------------
+   kbps      %     %                                                           
+    0.0                                                                        [A[A[A    36/36    (100%)|    0:00/    0:00|    0:00/    0:00|   108.96x|    0:00 
+-------------------------------------------------------------------------------
+   kbps       mono %     long switch short %                                   
+   32.0      100.0        66.7  22.2  11.1                                     
+ReplayGain: -1.4dB

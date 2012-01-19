@@ -1,0 +1,17 @@
+LAME 3.99.2 64bits (http://lame.sf.net)
+Using polyphase lowpass filter, transition band:  8269 Hz -  8535 Hz
+Encoding /Library/WebServer/Documents/tts/speeches//bio9p8ukbb.aiff
+      to /Library/WebServer/Documents/tts/speeches//bio9p8ukbb.mp3
+Encoding as 22.05 kHz single-ch MPEG-2 Layer III (11x)  32 kbps qval=3
+    Frame          |  CPU time/estim | REAL time/estim | play/CPU |    ETA 
+     0/       ( 0%)|    0:00/     :  |    0:00/     :  |         x|     :  
+00:01--------------------------------------------------------------------------
+   kbps      %     %                                                           
+    0.0                                                                        [A[A[A     0/58     ( 0%)|    0:00/    0:00|    0:00/    0:00|   0.0000x|    0:00 
+00:01--------------------------------------------------------------------------
+   kbps      %     %                                                           
+    0.0                                                                        [A[A[A    58/58    (100%)|    0:00/    0:00|    0:00/    0:00|   117.14x|    0:00 
+-------------------------------------------------------------------------------
+   kbps       mono %     long switch short %                                   
+   32.0      100.0        77.6  13.8   8.6                                     
+ReplayGain: -4.0dB
