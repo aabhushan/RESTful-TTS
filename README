@@ -1,19 +1,27 @@
-::Installation of RESTful-TTS::
+::RESTful-TTS server::
+
+Requirements:
+- MacOSX, built in "say" application required
+- LAME
+- Apache HTTP Server
+- sqlite
+
+Installation of RESTful-TTS:
 
 - Download the RESTful-TTS folder and place it in the live or ww folder of your PHP server.
 
-- Enable mod_rewrite in your Apache/server.
+- Enable mod_rewrite in your Apache http server.
 
 - Make the folders in the application writable by Apache.
 
 - Install LAME in your Mac by visiting http://sourceforge.net/projects/lame/files/lame/. 
-LAME is required for format conversion to mp3.
+  LAME is required for format conversion to mp3.
 
 - sqlite and say are assumed to be built-in on your Mac.
 
-::Using RESTful-TTS
+Using RESTful-TTS:
 
 - Do a GET or a POST on http://your-server/RESTful-TTS/converter/
 
- Eg. http://localhost/RESTful-TTS/converter/hello gives you an audio response of the text "hello"
+ Eg. "http://localhost/RESTful-TTS/converter/hello" gives you an audio response of the text "hello"
 
